@@ -1,6 +1,7 @@
 the purple
 red
 green
+blue
 yellow
 black
 whith
